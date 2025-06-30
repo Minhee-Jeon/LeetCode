@@ -1,22 +1,20 @@
 function intersect(nums1: number[], nums2: number[]): number[] {
+    const intersect = [];
+    
     // 오름차순으로 정렬하기
     nums1.sort((a, b) => a - b);
     nums2.sort((a, b) => a - b);
-
-    const result: number[] = [];
-    let i = 0, j = 0;
-
-    while (i < nums1.length && j < nums2.length) {
-        if (nums1[i] === nums2[j]) {
-            result.push(nums1[i]);
-            i++;
-            j++;
-        } else if (nums1[i] < nums2[j]) {
-            i++;
-        } else {
-            j++;
-        }
+    
+    while(nums1.length > 0) {
+     if (nums1[0] === nums2[0]) {
+         intersect.push(nums1.shift());
+         nums2.shift();
+     } else if (nums1[0] > nums2[0]) {
+         nums2.shift();
+     } else {
+         nums1.shift();
+     }
     }
-
-    return result;
+    
+    return intersect;
 };
