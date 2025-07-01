@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Minhee-Jeon/LeetCode/tree/master/0036-valid-sudoku) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Minhee-Jeon/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Minhee-Jeon/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Minhee-Jeon/LeetCode/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Minhee-Jeon/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Minhee-Jeon/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Minhee-Jeon/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Minhee-Jeon/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Minhee-Jeon/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Minhee-Jeon/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
