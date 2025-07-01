@@ -1,25 +1,25 @@
 function isValidSudoku(board: string[][]): boolean {
-     for(let i =0; i<board.length;i++){
-        let rowMap = {}
-        let colMap = {}
-        let boxMap = {}
-        for(let j=0; j<board[i].length;j++){
+     const rows = Array.from({ length: 9 }, () => new Set());
+  const cols = Array.from({ length: 9 }, () => new Set());
+  const boxes = Array.from({ length: 9 }, () => new Set());
 
-            let box = board[3* Math.floor(i/3) +Math.floor(j/3)][3*(i%3)+(j%3)]
-            
-            if(board[i][j] != '.'){
-                if(rowMap[board[i][j]]) return false;
-                rowMap[board[i][j]] = 1;
-            }
-            if(board[j][i] != '.') {
-                if(colMap[board[j][i]]) return false;
-                colMap[board[j][i]] = 1;
-            }
-            if(box!= '.'){
-                if(boxMap[box]) return false;
-                boxMap[box] = 1;
-            }
-        }
+  for (let r = 0; r < 9; r++) {
+    for (let c = 0; c < 9; c++) {
+      const value = board[r][c];
+
+      if (value === ".") continue;
+
+      const boxIndex = Math.floor(r / 3) * 3 + Math.floor(c / 3);
+
+      if (rows[r].has(value) || cols[c].has(value) || boxes[boxIndex].has(value)) {
+        return false;
+      }
+
+      rows[r].add(value);
+      cols[c].add(value);
+      boxes[boxIndex].add(value);
     }
-    return true;
+  }
+
+  return true;
 };
