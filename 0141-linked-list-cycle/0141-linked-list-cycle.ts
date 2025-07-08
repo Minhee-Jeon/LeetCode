@@ -11,17 +11,17 @@
  */
 
 function hasCycle(head: ListNode | null): boolean {
-    if (head === null) return false;
+    let slow = head;
+    let fast = head;
 
-    let map = new Map<ListNode, boolean>();
+    while (fast && fast.next) {
+        slow = slow.next!;
+        fast = fast.next.next!;
 
-    while(head.next) {
-        if(!map.has(head)){
-            map.set(head, true);
-            head = head.next;
-        } else {
-            return true;
+        if (slow === fast) {
+            return true; // 사이클 존재
         }
     }
-    return false;
+
+    return false; // 사이클 없음
 };
