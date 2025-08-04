@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Minhee-Jeon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Minhee-Jeon/LeetCode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Minhee-Jeon/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Minhee-Jeon/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Minhee-Jeon/LeetCode/tree/master/0326-power-of-three) |
 ## Tree
 |  |
 | ------- |
