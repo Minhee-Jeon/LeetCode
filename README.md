@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Minhee-Jeon/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Minhee-Jeon/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Minhee-Jeon/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Minhee-Jeon/LeetCode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Minhee-Jeon/LeetCode/tree/master/0326-power-of-three) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Minhee-Jeon/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Minhee-Jeon/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Minhee-Jeon/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Minhee-Jeon/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Minhee-Jeon/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Minhee-Jeon/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
