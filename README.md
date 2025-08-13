@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Minhee-Jeon/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Minhee-Jeon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Minhee-Jeon/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Minhee-Jeon/LeetCode/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Minhee-Jeon/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Minhee-Jeon/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Minhee-Jeon/LeetCode/tree/master/0326-power-of-three) |
 ## Tree
