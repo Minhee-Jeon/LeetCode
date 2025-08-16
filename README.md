@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Minhee-Jeon/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Minhee-Jeon/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Minhee-Jeon/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Minhee-Jeon/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Minhee-Jeon/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Minhee-Jeon/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Minhee-Jeon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Minhee-Jeon/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Minhee-Jeon/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Minhee-Jeon/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Minhee-Jeon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Minhee-Jeon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Minhee-Jeon/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Minhee-Jeon/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Minhee-Jeon/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
